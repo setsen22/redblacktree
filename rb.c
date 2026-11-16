@@ -1,10 +1,5 @@
 #include "DS.h"
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
-#define RB_RED 1
-#define RB_BLACK 0
 
 /*
   Хоёр оюутны мэдээллийн хооронд нь харьцуулах функц
